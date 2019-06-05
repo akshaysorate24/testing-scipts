@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27238" started-at="2019-04-11T10:18:00Z" finished-at="2019-04-11T10:18:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27238" started-at="2019-04-11T10:18:00Z" finished-at="2019-04-11T10:18:28Z">
+      <class name="search.jombay_search.CompaniesPage">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:search.jombay_search.CompaniesPage@7cd62f43]" name="initializeDriver" is-config="true" duration-ms="1101" started-at="2019-04-11T10:18:00Z" finished-at="2019-04-11T10:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:search.jombay_search.CompaniesPage@7cd62f43]" name="searchTest" duration-ms="26034" started-at="2019-04-11T10:18:02Z" finished-at="2019-04-11T10:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:search.jombay_search.CompaniesPage@7cd62f43]" name="closeTest" is-config="true" duration-ms="70" started-at="2019-04-11T10:18:28Z" finished-at="2019-04-11T10:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+      </class> <!-- search.jombay_search.CompaniesPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
